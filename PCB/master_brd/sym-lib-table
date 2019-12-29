@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ZB_TR)(type Legacy)(uri ${KIPRJMOD}/ZB_TR.lib)(options "")(descr ""))
+)

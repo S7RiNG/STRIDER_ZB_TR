@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name slave_brd)(type KiCad)(uri D:/prj/STRIDER_ZB_TR/PCB/slave_brd/slave_brd.pretty)(options "")(descr ""))
+  (lib (name master_brd)(type KiCad)(uri ${KIPRJMOD}/master_brd.pretty)(options "")(descr ""))
+)

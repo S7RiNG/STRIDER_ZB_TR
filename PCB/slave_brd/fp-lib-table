@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name slave_brd)(type KiCad)(uri ${KIPRJMOD}/slave_brd.pretty)(options "")(descr ""))
+)
